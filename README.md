@@ -9,7 +9,7 @@ I am a first-year computer science student at University of Szeged, passionate a
 - 💻 Building Dart and Spring Boot applications with PostgreSQL
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-korda-798083396/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-korda)
 
 # 💻 Tech Stack:
 Languages: 
