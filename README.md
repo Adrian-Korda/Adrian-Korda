@@ -6,7 +6,7 @@ I am a first-year computer science student at University of Szeged, passionate a
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Dart and Spring Boot applications with PostgreSQL
+- 💻 Building Spring Boot and Dart applications with PostgreSQL
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-korda)
